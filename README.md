@@ -1,10 +1,17 @@
-# pygame
-import pygame
-a=3
-print a
-pygame.init()    
-while True:
-  event=pygame.event.poll()
-  if event.type == pygame.QUIT:
-      break
-pygame.quit()
+#Pygame
+A simple game with tank shooting written in Python
+
+#Introduction
+The game included several sound and image files
+Only one simple .py file included
+
+#Requirement
+1.Pyhton 2.7.5
+2.Python_Pygame
+
+# How To Start Game
+  
+```bash
+$ python tank_attack.py
+```
+
