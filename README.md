@@ -12,6 +12,6 @@ A simple game with tank shooting written in Python
 # How To Start Game
   
 ```bash
-$ python tank_attack.py
+$ python tankcraft.py
 ```
 
